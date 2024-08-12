@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Mehri Abdolghafar
+
+I’m a software engineer with a focus on .NET and Python. 
+
+### 📊 Stats
+[![Mehri Abdolghafar's github stats](https://github-readme-stats.vercel.app/api?username=mehrighafar&show_icons=true&theme=radical)](https://github.com/mehrighafar)
 
 <!--
 **mehrighafar/mehrighafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
